@@ -1,7 +1,7 @@
 package com.company;
 
 public class ML {
-    private String Nomor, Nama, Rasyid;
+    private String Nomor, Nama;
     private String[][] setdata = new String[5][2];
 
     public ML(String id, String nick) {
