@@ -37,7 +37,7 @@ public class Main {
 
     public static void main(String[] args) throws InterruptedException {
         Scanner sc = new Scanner(System.in);
-        list();
+        fadlil.list();
         Thread.sleep(5000);
         System.out.println("\nSelamat Datang di Tokoped Shop");
         System.out.println("Top up Games Mobile Legends");
